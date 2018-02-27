@@ -1,1 +1,1 @@
-Gitis a distributed version control system.
+Gitis a free system!
