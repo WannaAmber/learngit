@@ -1,2 +1,4 @@
 Gitis a free system!
-Git tracks changes
+Git tracks changes of files.
+first change.
+second change.
